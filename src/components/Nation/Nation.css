@@ -1,0 +1,16 @@
+.card{
+  border: 1px solid gray;
+  margin: 5px;
+  padding: 5px;
+  width: 40%;
+  height: 100%;
+  float:left;
+  border-radius: 5px;
+  box-shadow: 0.6px 1px 1px 0.5px gray;
+  margin-top: 15px;  
+  margin-left: 70px;
+}
+.card-img-top{
+  width: 200px;
+  height: 100px;
+}
